@@ -1,0 +1,23 @@
+{
+  "name": "new-401-prep-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanceHarmon/new-401-prep-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanceHarmon/new-401-prep-challenges/issues"
+  },
+  "homepage": "https://github.com/ChanceHarmon/new-401-prep-challenges#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
