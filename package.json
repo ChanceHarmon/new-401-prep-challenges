@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ChanceHarmon/new-401-prep-challenges#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "superagent": "^6.0.0"
   }
 }
